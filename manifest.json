@@ -1,0 +1,12 @@
+{
+  "name": "Random Quote",
+  "version": "1.0.0",
+  "description": "Quote Quest: Explore Wisdom and Inspiration Through Random Quotes and Sayings",
+  "manifest_version": 2,
+  "author": "Nitesh Nagar",
+  "icons": { "48": "logo.svg" },
+  "browser_action": {
+    "default_popup": "index.html",
+    "browser_style": true
+  }
+}

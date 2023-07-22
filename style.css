@@ -1,0 +1,35 @@
+  @import url('https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Lora:wght@400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap');
+
+  *,
+  html,
+  body {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Andika', sans-serif;
+      /* font-family: 'Lora', serif; */
+  }
+
+  .container {
+      max-width: 500px;
+      width: 350px;
+      text-align: center;
+      margin: 0px auto 0;
+      max-height: 380px;
+      word-wrap: break-word;
+      padding: 20px;
+      background-color: #f8faff;
+      border: 1px solid #d3dce6;
+      border-left: 4px solid #0556f3;
+      line-height: 30px;
+      border-radius: 4px;
+      color: rgba(37, 38, 94, 0.7);
+  }
+
+  .quote {
+      font-size: 20px;
+  }
+
+  .author {
+      text-align: right;
+  }
